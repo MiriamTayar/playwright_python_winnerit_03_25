@@ -1,2 +1,0 @@
-[pytest]
-addopts = -v --headed --browser-channel chrome --screenshot on --slowmo 500
